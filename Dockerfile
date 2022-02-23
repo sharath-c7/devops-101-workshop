@@ -1,1 +1,2 @@
-FROM ${SERVER_NAME}.jfrog.io/${VIRTUAL_REPO_NAME}/ubuntu:16.04
+FROM sharathjfrogdevops.jfrog.io/devops1012-docker/ubuntu:16.04
+
